@@ -78,10 +78,7 @@ public class DetailActivity extends AppCompatActivity { //TODO #11  implement De
 
         setupActionBar();
         
-        //TODO #9 Get data from the intent
 
-        //TODO #10 Declare the presenter (put the name of the meal name from the data intent to the presenter)
-        
     }
 
     private void setupActionBar() {

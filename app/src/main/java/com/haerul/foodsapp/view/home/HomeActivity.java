@@ -73,7 +73,7 @@ public class HomeActivity extends AppCompatActivity implements HomeView {
         headerAdapter.notifyDataSetChanged();
 
         headerAdapter.setOnItemClickListener((v, position) -> {
-            //TODO #8.1 make an intent to DetailActivity (get the name of the meal from the edit text view, then send the name of the meal to DetailActivity)
+
         });
     }
 
